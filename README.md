@@ -1,16 +1,18 @@
 # ДП-5В
 
-The DP-5V is a MIDI device that generates MIDI signals from radiation using an internal Geiger counter.
+The DP-5V (ДП-5В) is a MIDI device that generates MIDI signals from radiation using an internal geiger counter. It is named after the famous Soviet geiger counter used by Chernobyl liquidators in 1986.
 
 ## Features
 
+The DP-5V has 3 main settings.
+
 ### Quantization
 
-Notes can be quantized to whole note, half note, quarter note, eighth note all the way up to 128th notes. When the Geiger Counter receives a signal, it waits in a buffer until the note can be triggered.
+When turned on, notes can be quantized to whole note, half note, quarter note, eighth note all the way up to 128th notes. When the Geiger Counter receives a signal, it waits in a buffer until the note can be triggered.
 
 ### BPM
 
-Only used when quantized is enabled, ranges from 40bpm to 250bpm.
+When in automatic mode, the BPM is based on the amount of clicks per minute with a default setting of 60 BPM. When in automatic mode, the BPM can be set from 40bpm to 500bpm.
 
 ### Modulo Gate
 
