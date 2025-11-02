@@ -18,4 +18,4 @@ When in automatic mode, the BPM is based on the amount of clicks per minute with
 
 When the modulo gate is set to 2, every second signal is a note off of the previous signal. When the modulo gate is set to 1, every signal acts as both a note off for the previous note, and a note on for the current note.
 
-![DP-5V](images/dp-5v.png)
+![DP-5V](https://cdn.githubraw.com/struct78/DP-5V/main/images/DP-5V.png)
