@@ -1,6 +1,6 @@
 # ДП-5В
 
-The DP-5V (ДП-5В) is a MIDI device that generates MIDI signals from radiation using an internal geiger counter. It is named after the famous Soviet geiger counter used by Chernobyl liquidators in 1986.
+The DP-5V (ДП-5В) is a MIDI device that generates MIDI signals from radiation using an internal geiger counter. It is named after, and takes design inspiration from, the famous Soviet geiger counter used by Chernobyl liquidators in 1986.
 
 ## Features
 
