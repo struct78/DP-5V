@@ -4,7 +4,7 @@ The DP-5V (ДП-5В) is a MIDI device that generates MIDI signals from radiation
 
 ## Features
 
-The DP-5V has 3 main settings.
+For ease of use, the DP-5V has just 2 settings.
 
 ### Quantization
 
